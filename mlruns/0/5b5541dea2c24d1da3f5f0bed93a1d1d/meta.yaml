@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b5541dea2c24d1da3f5f0bed93a1d1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5541dea2c24d1da3f5f0bed93a1d1d
+run_name: grandiose-midge-319
+run_uuid: 5b5541dea2c24d1da3f5f0bed93a1d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748005194640
+status: 1
+tags: []
+user_id: drawile
