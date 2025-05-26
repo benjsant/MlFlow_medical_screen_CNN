@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/734421627877056266
+creation_time: 1748262904028
+experiment_id: '734421627877056266'
+last_update_time: 1748262904028
+lifecycle_stage: active
+name: Pneumonia_Classification_DenseNet121

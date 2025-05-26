@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/778139179010127211/3b3c64d885754d219652885c6c6f6ced/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '778139179010127211'
+lifecycle_stage: active
+run_id: 3b3c64d885754d219652885c6c6f6ced
+run_name: valuable-ram-36
+run_uuid: 3b3c64d885754d219652885c6c6f6ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748254005065
+status: 1
+tags: []
+user_id: Utilisateur
