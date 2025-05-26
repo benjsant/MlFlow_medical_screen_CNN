@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/778139179010127211/9488aef920974961bd7e94047b6eccc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '778139179010127211'
+lifecycle_stage: active
+run_id: 9488aef920974961bd7e94047b6eccc5
+run_name: painted-calf-922
+run_uuid: 9488aef920974961bd7e94047b6eccc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748259402631
+status: 1
+tags: []
+user_id: Utilisateur

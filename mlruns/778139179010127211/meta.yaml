@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/778139179010127211
+creation_time: 1748254004068
+experiment_id: '778139179010127211'
+last_update_time: 1748254004068
+lifecycle_stage: active
+name: Pneumonia_Classification_EfficcientNetV2B0

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/992359921606593729
+creation_time: 1748251421190
+experiment_id: '992359921606593729'
+last_update_time: 1748251421190
+lifecycle_stage: active
+name: Pneumonia_Classification_MobileNetV3Large
