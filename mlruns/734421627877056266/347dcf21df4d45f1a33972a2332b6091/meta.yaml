@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734421627877056266/347dcf21df4d45f1a33972a2332b6091/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '734421627877056266'
+lifecycle_stage: active
+run_id: 347dcf21df4d45f1a33972a2332b6091
+run_name: defiant-fawn-632
+run_uuid: 347dcf21df4d45f1a33972a2332b6091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748293775189
+status: 1
+tags: []
+user_id: drawile

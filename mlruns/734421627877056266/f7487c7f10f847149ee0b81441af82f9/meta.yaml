@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734421627877056266/f7487c7f10f847149ee0b81441af82f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '734421627877056266'
+lifecycle_stage: active
+run_id: f7487c7f10f847149ee0b81441af82f9
+run_name: redolent-moth-215
+run_uuid: f7487c7f10f847149ee0b81441af82f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748290039275
+status: 1
+tags: []
+user_id: drawile

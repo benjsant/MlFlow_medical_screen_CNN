@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734421627877056266/bd29a2428c994a24a66cabf39486fcf0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '734421627877056266'
+lifecycle_stage: active
+run_id: bd29a2428c994a24a66cabf39486fcf0
+run_name: selective-shrew-903
+run_uuid: bd29a2428c994a24a66cabf39486fcf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748292108690
+status: 1
+tags: []
+user_id: drawile
