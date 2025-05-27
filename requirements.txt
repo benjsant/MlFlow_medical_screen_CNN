@@ -4,3 +4,4 @@ opencv-python
 mlflow
 seaborn
 numpy
+requests
