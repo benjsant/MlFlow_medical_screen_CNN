@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/335108224053349855/30d1e9b435764b60b1b6e99126c1b56f/artifacts
+end_time: 1748376494717
+entry_point_name: ''
+experiment_id: '335108224053349855'
+lifecycle_stage: active
+run_id: 30d1e9b435764b60b1b6e99126c1b56f
+run_name: beautiful-donkey-423
+run_uuid: 30d1e9b435764b60b1b6e99126c1b56f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748375356956
+status: 3
+tags: []
+user_id: drawile
