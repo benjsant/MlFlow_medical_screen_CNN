@@ -100,7 +100,6 @@ Le modèle MobileNetV3Large a été entraîné sur les images redimensionnées �
 ### Pourquoi MobileNetV3Large 
 Après avoir testé différents modèles en passant par efficientNetV2B0, DenseNet121 et MobileNetV3Small, j'ai choisi MobileNetV3Large qui est pour moi le meilleur compromis entre puissance et ressource surtout pour une configuration ou la carte graphique n'a pas pu être utilisé pour tensorflow.
  
----
 ### Pré-requis et installation 
 
 1. **Cloner le projet** : Pour utiliser l'application, téléchargez le Zip du projet depuis GitHub en [cliquant ici](https://github.com/benjsant/wator_groupe1.git).
