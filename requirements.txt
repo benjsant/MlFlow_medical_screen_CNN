@@ -1,5 +1,7 @@
-numpy
 matplotlib
 tensorflow
 opencv-python
 mlflow
+seaborn
+numpy
+requests

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/335108224053349855/1311db5c5eaa4ef1aa4d8e77e2c0127b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '335108224053349855'
+lifecycle_stage: active
+run_id: 1311db5c5eaa4ef1aa4d8e77e2c0127b
+run_name: auspicious-loon-577
+run_uuid: 1311db5c5eaa4ef1aa4d8e77e2c0127b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423181880
+status: 1
+tags: []
+user_id: Utilisateur

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/335108224053349855/0c8f0a7e5ba147c5a8ef23b7ba005415/artifacts
+end_time: 1748423181843
+entry_point_name: ''
+experiment_id: '335108224053349855'
+lifecycle_stage: active
+run_id: 0c8f0a7e5ba147c5a8ef23b7ba005415
+run_name: agreeable-deer-13
+run_uuid: 0c8f0a7e5ba147c5a8ef23b7ba005415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423171975
+status: 3
+tags: []
+user_id: Utilisateur

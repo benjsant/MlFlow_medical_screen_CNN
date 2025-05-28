@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/335108224053349855/bcd6cf853c2b4fca8229a3ac85827a3b/artifacts
+end_time: 1748417851806
+entry_point_name: ''
+experiment_id: '335108224053349855'
+lifecycle_stage: active
+run_id: bcd6cf853c2b4fca8229a3ac85827a3b
+run_name: abundant-bear-79
+run_uuid: bcd6cf853c2b4fca8229a3ac85827a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748415675840
+status: 3
+tags: []
+user_id: Utilisateur
