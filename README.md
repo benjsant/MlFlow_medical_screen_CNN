@@ -129,11 +129,16 @@ MLflow permet de suivre :
 - Les métriques (accuracy, loss, etc.)
 - Les modèles sauvegardés
 
-Vous pouvez simplement exécuter le programme, j'ai ajouté une option qui permet de lancer le serveur mlflow sans avoir besoin de l'exécuter au préalable, le défaut de cet option est que dès que nous quittons l'IDE MlFlow sera désactivé.
+Pour accéder à MLflow, vous pouvez simplement exécuter le programme, j'ai ajouté une option qui permet de lancer le serveur mlflow sans avoir besoin de l'exécuter au préalable, le défaut de cet option est que dès que nous quittons l'IDE MLflow sera désactivé.
 
-si vous voulez tout de même l'exécuter en terminal voici la commande ci-dessous: 
+Si vous voulez tout de même l'exécuter en terminal voici la commande: 
 ```bash
 mlflow ui
+```
+
+Ensuite, lancez votre navigateur et renseignez l'URL suivante: 
+```bash
+http://localhost:5000
 ```
 
 ---
@@ -159,7 +164,7 @@ Voici quelques graphiques illustrant les performances du modèle :
 
 ## Auteur
 
-Projet réalisé par **[Benjamin](https://github.com/benjsant/)** dans le cadre d’un projet éducatif lors de la formation Développeur IA à Simplon Lille.
+Projet réalisé par **[Benjamin](https://github.com/benjsant/)** dans le cadre d’un brief lors de la formation Développeur IA à Simplon Lille.
 
 ---
 
