@@ -24,7 +24,6 @@ Le modèle utilisé est **MobileNetV3Large**, finement ajusté à l’aide de **
     - [Pourquoi MobileNetV3Large](#pourquoi-mobilenetv3large)
     - [Pré-requis et installation](#pré-requis-et-installation)
     - [Suivi des expériences avec MLflow](#suivi-des-expériences-avec-mlflow)
-  - [Résultats](#résultats)
   - [Graphiques](#graphiques)
   - [Auteur](#auteur)
 - [Licence](#licence)
@@ -82,7 +81,7 @@ Voici l'arborescence du projet pour mieux localiser certains fichiers :
   - **banniere.png**: Banniere du notebook jupyter .
 - **mlruns/** : Dossier généré par Mlflow contenant les expérimentations, des sous-dossiers sont généré par chaque expérimentations.
 - **mlartifacts/** :  Dossier généré par Mlflow contenant les artefacts(model, images etc...), des sous-dossiers sont généré par chaque expérimentations.
-- **LICENCE** : Licence MIT du projet.
+- **Licence** : Licence MIT du projet.
 - **requirements.txt** : Dépendances pip requises pour l'utilsation du projet 
 - **README.md** : Documentation du projet.
 - **transfer_learning.ipynb** : Notebook jupyter du projet contenant des informations et le code . 
@@ -129,23 +128,13 @@ MLflow permet de suivre :
 - Les hyperparamètres
 - Les métriques (accuracy, loss, etc.)
 - Les modèles sauvegardés
-- 
+
 Vous pouvez simplement exécuter le programme, j'ai ajouté une option qui permet de lancer le serveur mlflow sans avoir besoin de l'exécuter au préalable, le défaut de cet option est que dès que nous quittons l'IDE MlFlow sera désactivé.
 
 si vous voulez tout de même l'exécuter en terminal voici la commande ci-dessous: 
 ```bash
 mlflow ui
 ```
-
----
-
-## Résultats
-
-Les performances obtenues sur le jeu de test :
-- **Accuracy** : ~98%
-- **Recall** : 99%
-- **Precision** : 97%
-- **F1-Score** : 98%
 
 ---
 
